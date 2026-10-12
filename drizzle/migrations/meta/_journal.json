@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791457138342,
+      "tag": "0000_crowd_pulse_schema",
+      "breakpoints": true
+    }
+  ]
+}
